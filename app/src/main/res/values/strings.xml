@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SallaBot</string>
+
+    <string name="btnFw">İleri</string>
+    <string name="btnBw">Geri</string>
+    <string name="btnLeft">Sol</string>
+    <string name="btnRight">Sağ</string>
+    <string name="btnStop">Dur</string>
+</resources>

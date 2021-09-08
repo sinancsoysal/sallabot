@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192351390348",
+    "firebase_url": "https://robowars-4329d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "robowars-4329d",
+    "storage_bucket": "robowars-4329d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192351390348:android:ca508ff786ac0ddb8f89a9",
+        "android_client_info": {
+          "package_name": "com.ssoysal.sallabot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192351390348-q9dpjbrcmqf7ad27of02pa6fr0n2ddth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPDsPOI6MJHUZF8CzNbwXRxyE2CgQVUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192351390348-q9dpjbrcmqf7ad27of02pa6fr0n2ddth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
